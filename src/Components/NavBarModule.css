@@ -43,3 +43,12 @@ body{
 .about3{
     font-size: 25px;
 }
+@media screen and (max-width: 450px)
+{
+    .header2{
+   
+        font-size: 25px;
+        padding-left: 15px;
+        padding-right: 15px;
+   }
+}
